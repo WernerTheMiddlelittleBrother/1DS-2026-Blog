@@ -1,0 +1,14 @@
+:root{
+    --preto-mais-preto-mas-roxo: #10002bff;
+--preto-roxo: #240046ff;
+--roxo-mais-escuro: #3c096cff;
+--roxo-escuro: #5a189aff;
+--roxo: #7b2cbfff;
+--roxo-meio: #9d4eddff;
+--roxo-um-pouco-mais-roxo: #c77dffff;
+--roxo-claro: #e0aaffff;
+
+}
+body{
+    background-color:#7b2cbfff
+}
