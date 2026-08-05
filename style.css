@@ -30,3 +30,11 @@ h1{
 header{
     background-color: #3c096cff;
 }
+.menu{
+    display: flex;
+    list-style: nome;
+    gap: 20px;
+    margin: 10px;
+    color: var(--preto-roxo)
+    text-transform : #3c096cff "Rouge Script, cursive" ;
+    font-size: 14px}
