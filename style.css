@@ -20,8 +20,8 @@
 
 }
 *{
-    margin: 0;
-    padding: 0;
+    margin: 5;
+    padding: 5;
 }
 
 body {
@@ -37,10 +37,12 @@ h1 {
 header {
     background-color: var(--roxo-mais-escuro);
 }
-.menu a:hover{
+.menu a:hover {
     color: var(--preto-mais-preto-mas-roxo)
     transition: 1s;
+    padding: 30
 }
+
 .img-capa{
     
 }
@@ -52,3 +54,15 @@ header {
     color: var(--preto-roxo) text-transform --roxo-mais-escuro "Rouge Script, cursive";
     font-size: 14px
 }
+.Conteudo-texto do meio{
+   margin: 30px;
+   border: 2px solid var(--roxo-meio);
+   padding: 30px;
+   text-aling: center;
+
+
+
+}
+
+
+
