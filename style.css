@@ -31,7 +31,7 @@ body {
     display: flex;
     flex-direction: column;
 
-    background-color: var(--roxo);
+    background-color: var(--roxo-escuro);
     color: var(--roxo-claro);
     font-family: var(--texto);
 }
